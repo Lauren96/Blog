@@ -1,0 +1,78 @@
+/* 	Quick-Grab
+
+Colors
+		(Dark Gray-Blue) #5F6A85
+		(Gray-Blue) #959FB8
+		(Light Gray-Blue) #A7AFC2
+		(Super Light Gray-Blue) #CCD2DF
+
+Fonts
+	h3,4 'The Unseen'
+	h1 'Monoglyceride'
+	p 'aaarghnormal'
+	p 'sf_old_republicregular'
+*/
+
+body {
+	background-color: #5F6A85;
+	background-image: url("../img/background.jpg");
+}
+
+h1 {
+	font-family: 'monoglyceridedemibold';
+}
+
+h3 {
+	font-family: 'Monoglyceride';
+}
+
+h4 {
+	font-family: 'Monoglyceride';
+}
+
+p {
+	font-family: 'sf_old_republicregular';
+	font-size: 17px;
+
+}
+
+.sociallinks img {
+	margin: auto;
+	font-family: 'sf_old_republicregular';
+}
+
+.link p {
+	text-decoration: none;
+	color: black;
+}
+
+.sociallinks {
+	background-color: #959FB8;
+	text-decoration: none;
+}
+
+.sociallinks li {
+	color: black;
+}
+
+.sidecolumn {
+	background-color: #959FB8;
+}
+
+.blogtitle {
+	background-color: #CCD2DF;
+}
+
+.middlecolumn {
+	background-color: #A7AFC2;
+}
+
+.middlecolumn img {
+	margin: auto;
+	width: 100%;
+	border: 5px black;
+	padding: 10px;
+}
+
+
+
