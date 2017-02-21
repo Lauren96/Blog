@@ -31,6 +31,7 @@ h4 {
 p {
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 20px;
+	text-indent: 30px;
 }
 
 .sociallinks img {
@@ -72,6 +73,13 @@ p {
 	padding: 10px;
 }
 
+.middlecolumn a {
+	color: black;
+	text-decoration: underline;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 20px;
+}
+
 .pagepost {
 	background-color: #A7AFC2;
 }
@@ -105,4 +113,21 @@ p {
  	font-size: 25px;
  	text-decoration: underline;
  	font-family: 'Roboto Condensed', sans-serif;
+ }
+
+ .info {
+ 	background-color: #A7AFC2;
+ 	text-align: center;
+ }
+
+ .info h3 {
+	font-size: 45px;
+	text-align: center;
+ }
+
+ .info li {
+ 	font-family: 'Roboto Condensed', sans-serif;
+ 	color: black;
+ 	font-size: 25px;
+ 	text-decoration: underline;
  }
