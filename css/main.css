@@ -138,3 +138,15 @@ p {
  	font-size: 25px;
  	text-decoration: underline;
  }
+
+ .form {
+ 	font-family: 'Roboto Condensed', sans-serif;
+ }
+
+ .form h2 {
+ 	font-family: 'Courgette', cursive;
+ }
+
+.form form {
+	padding: 20px;
+}
