@@ -7,10 +7,8 @@ Colors
 		(Super Light Gray-Blue) #CCD2DF
 
 Fonts
-	h3,4 'The Unseen'
-	h1 'Monoglyceride'
-	p 'aaarghnormal'
-	p 'sf_old_republicregular'
+	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Days One', sans-serif;
 */
 
 body {
@@ -19,26 +17,25 @@ body {
 }
 
 h1 {
-	font-family: 'monoglyceridedemibold';
+	font-family: 'Courgette', cursive;
 }
 
 h3 {
-	font-family: 'Monoglyceride';
+	font-family: 'Courgette', cursive;
 }
 
 h4 {
-	font-family: 'Monoglyceride';
+	font-family: 'Courgette', cursive;
 }
 
 p {
-	font-family: 'sf_old_republicregular';
-	font-size: 17px;
-
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 20px;
 }
 
 .sociallinks img {
 	margin: auto;
-	font-family: 'sf_old_republicregular';
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
 .link p {
@@ -49,6 +46,7 @@ p {
 .sociallinks {
 	background-color: #959FB8;
 	text-decoration: none;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
 .sociallinks li {
@@ -74,5 +72,37 @@ p {
 	padding: 10px;
 }
 
+.pagepost {
+	background-color: #A7AFC2;
+}
 
+.pagepost p {
+	font-size: 20px;
+}
 
+.pagepost h3 {
+	font-size: 45px;
+	text-align: center;
+}
+
+.pagepost img {
+	width: 70%;
+	height: 70%;
+	margin: auto;
+	padding-left: 60px;
+}
+
+.pagepost h3 p {
+	padding: 30px;
+}
+
+.list {
+	background-color: #A7AFC2;
+	text-align: center;
+}
+ .list li {
+ 	color: black;
+ 	font-size: 25px;
+ 	text-decoration: underline;
+ 	font-family: 'Roboto Condensed', sans-serif;
+ }
