@@ -58,6 +58,13 @@ p {
 	background-color: #959FB8;
 }
 
+.sidecolumn a {
+	color: black;
+	text-decoration: underline;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 20px;
+}
+
 .blogtitle {
 	background-color: #CCD2DF;
 }
